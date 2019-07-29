@@ -105,6 +105,13 @@ nav {
     margin: 10px auto;
 }
 
+.content-profile {
+    position: relative;
+    background: #fff;
+    z-index: 99;
+    margin: 10px auto 20px auto;
+}
+
 .card-content h4 {
     font-family: 'Farro',
     sans-serif;
